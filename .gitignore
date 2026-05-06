@@ -41,6 +41,7 @@ pids
 
 # Nest build
 /.nestjs-cli.json
+tsconfig.tsbuildinfo
 
 # generated files
 *.tgz
