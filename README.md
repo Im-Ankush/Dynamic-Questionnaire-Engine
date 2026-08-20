@@ -359,12 +359,3 @@ This project demonstrates:
 - Scalable backend architecture
 - Production-oriented NestJS design
 
----
-
-# License
-
-MIT
-
----
-
-Built with ❤️ for High-Scale Backend .
